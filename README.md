@@ -1,6 +1,8 @@
 
 # EV Automotive Control System - A Smart Automotive Control System Implementation .                                                                                
--An Embedded Vehicle Simulation Platform Designed with **STM32F407G‑DISC1** development board.                                                                      This project demonstrates Bluetooth‑controlled motion, sensor feedback, and adaptive automotive behaviour using bare‑metal programming.                         -It is Completely based On Peripheral & Protocols Project.                                                                                                      
+-An Embedded Vehicle Simulation Platform Designed with **STM32F407G‑DISC1** development board.                                                                
+This project demonstrates Bluetooth‑controlled motion, sensor feedback, and adaptive automotive behaviour using bare‑metal programming.                       
+-It is Completely based On Peripheral & Protocols Project.                                                                                                      
 
 ## Motivation
 -I started this project one month ago to gain hands‑on knowledge of STM32 peripherals and communication protocols using bare‑metal coding. By implementing UART,   SPI, I2C, ADC, Timers, and GPIO drivers directly at the register level Programming , I strengthened my understanding of Embedded Systems and real‑time control.  

@@ -1,5 +1,5 @@
 
-# EV Automotive Control System - A Smart Automotive Control SystemImplementation .                                                                                
+# EV Automotive Control System - A Smart Automotive Control System Implementation .                                                                                
 -An Embedded Vehicle Simulation Platform Designed with **STM32F407G‑DISC1** development board.                                                                      This project demonstrates Bluetooth‑controlled motion, sensor feedback, and adaptive automotive behaviour using bare‑metal programming.                         -It is Completely based On Peripheral & Protocols Project.                                                                                                      
 
 ## Motivation
